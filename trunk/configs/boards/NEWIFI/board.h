@@ -1,7 +1,7 @@
 /* NEWIFI */
 
-#define BOARD_PID		"NEWIFI"
-#define BOARD_NAME		"NEWIFI"
+#define BOARD_PID		"RT-N56UB1"
+#define BOARD_NAME		"RT-N56UB1"
 #define BOARD_DESC		"NEWIFI Wireless Router"
 #define BOARD_VENDOR_NAME	"Diting Technology"
 #define BOARD_VENDOR_URL	"http://www.newifi.com/"
